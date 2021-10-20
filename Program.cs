@@ -16,7 +16,7 @@ namespace ConsoleApp6
 
         {
             Console.Clear();
-            Console.WriteLine("Welcome to Connor's Calculator");
+            Console.WriteLine("Welcome to test Connor's Calculator");
             Console.WriteLine("");
             Console.WriteLine("Enter 1 to add");
             Console.WriteLine("Enter 2 to subtract");
